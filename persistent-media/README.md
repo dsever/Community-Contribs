@@ -64,6 +64,7 @@ Now we can declare access parameters as environment variables as:
 export AWS_ACCESS_KEY_ID=from_minio
 export AWS_SECRET_ACCESS_KEY=from_mino
 export S3_SERVICE_URL=minio_service #this example http://minio-service.dlf:9000
+export BUCKET_NAME=anyName
 ```
 
 ```bash
